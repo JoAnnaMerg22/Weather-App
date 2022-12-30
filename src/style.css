@@ -85,7 +85,8 @@ li:first-letter {
 .weather-temperature .units {
   position: relative;
   font-size: 16px;
-  top: -16px;
+  top: -14px;
+  color: rgb(11, 58, 114);
 }
 
 .weather-temperature .active {
