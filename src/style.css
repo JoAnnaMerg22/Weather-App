@@ -50,8 +50,8 @@ li:first-letter {
 }
 
 .weather-app-wrapper {
-  max-width: 600px;
-  margin: 30px auto;
+  max-width: 700px;
+  margin: 40px auto;
   background-color: #c8dbe6;
   border-color: #185a78;
   border-radius: 5px;
